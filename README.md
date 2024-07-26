@@ -130,6 +130,9 @@ Amazon ECS is a fully managed container orchestration service that enables you t
 - Ensure that all AWS services are correctly configured with the necessary permissions and security settings.
 - Review the AWS costs associated with running ECS, ECR, and other related services.
 
+- ![image](https://github.com/user-attachments/assets/53ad03e7-7a8c-4438-9ea6-cdd40f660de8)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
